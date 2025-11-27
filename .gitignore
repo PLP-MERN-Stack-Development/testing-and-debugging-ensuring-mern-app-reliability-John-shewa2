@@ -1,0 +1,18 @@
+# Testing artifacts
+coverage/
+cypress/videos/
+cypress/screenshots/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db

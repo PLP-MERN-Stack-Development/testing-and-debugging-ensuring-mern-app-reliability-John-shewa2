@@ -1,0 +1,1 @@
+jest.setTimeout(30000); // 30s timeout for DB operations
